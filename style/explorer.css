@@ -1,0 +1,9 @@
+body {
+    background: url("../assets/bg-explorer.svg");
+    background-size: cover;
+}
+
+#explorer {
+    font-weight: 700;
+    color: var(--fc-nav-selected);
+}

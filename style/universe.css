@@ -1,0 +1,9 @@
+body {
+    background: url("../assets/bg-universe.svg");
+    background-size: cover;
+}
+
+#universe {
+    font-weight: 700;
+    color: var(--fc-nav-selected);
+}

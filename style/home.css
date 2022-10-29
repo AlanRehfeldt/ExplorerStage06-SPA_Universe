@@ -1,0 +1,30 @@
+body {
+    background: url("../assets/bg-home.svg");
+    background-size: cover;
+}
+
+#app {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+#home {
+    font-weight: 700;
+    color: var(--fc-nav-selected);
+}
+
+button {
+    cursor: pointer;
+    text-transform: uppercase;
+    background: none;
+    padding: 12px 32px;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: var(--fc-texting);
+}
