@@ -37,7 +37,7 @@ Aplicação desenvolvida utilizando conceitos de SPA (Single Page Application).
 6. Rode `npm start` para iniciar o servidor de desenvolvimento.
 
 ## 🔗 Link
-[Acesse aqui](https://alanrehfeldt.github.io/ExplorerStage05-Timer/)
+[Acesse aqui](https://alanrehfeldt.github.io/ExplorerStage06-SPA_Universe/)
 
 ## 🔖 Layout
 
