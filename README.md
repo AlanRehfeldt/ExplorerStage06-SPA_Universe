@@ -36,9 +36,6 @@ Aplicação desenvolvida utilizando conceitos de SPA (Single Page Application).
 5. Rode `npm i` para instalar as dependências do projeto;
 6. Rode `npm start` para iniciar o servidor de desenvolvimento.
 
-## 🔗 Link
-[Acesse aqui](https://alanrehfeldt.github.io/ExplorerStage06-SPA_Universe/)
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/dzL37jx71VTFI0NvgW0Wk1/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
